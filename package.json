@@ -1,0 +1,20 @@
+{
+  "name": "part8a-library",
+  "version": "1.0.0",
+  "description": "part8a-library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "part8a-library"
+  },
+  "author": "antonio",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0",
+    "uuid": "^9.0.0"
+  }
+}
